@@ -3,7 +3,7 @@ Atalho comentario de varias linhas
 alt + shift + A
 
 Desafio:
- Criar uma funcao que receba preco e descpnto em %
+ Criar uma funcao que receba preco e desconto em %
 e mostre o valor final com desconto.
 Criar outra funcao que receba preco e quantidade
 e mostre o valor total da compra.
